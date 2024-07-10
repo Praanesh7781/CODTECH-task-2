@@ -67,3 +67,11 @@ CloudWatch
 **Conclusion**
 
 This project provides a hands-on approach to understanding the basics of serverless computing with AWS Lambda. It covers essential skills in writing, deploying, and managing serverless functions, serving as a valuable resource for anyone looking to explore serverless architecture.
+
+![Screenshot (25)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/bb8fb349-2eaf-40b6-bf36-72114cae7bc0)
+
+![Screenshot (26)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/bf22157d-2888-40a0-abbe-7927887de9e3)
+
+![Screenshot (27)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/e2fa4b80-725e-4fe4-9449-cc9e5c6439fb)
+
+![Screenshot (28)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/c7755f1d-0518-41b2-93fe-e63f1df65a4d)
