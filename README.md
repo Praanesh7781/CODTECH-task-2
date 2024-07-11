@@ -72,6 +72,5 @@ This project provides a hands-on approach to understanding the basics of serverl
 
 ![Screenshot (26)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/bf22157d-2888-40a0-abbe-7927887de9e3)
 
-![Screenshot (27)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/e2fa4b80-725e-4fe4-9449-cc9e5c6439fb)
+![Screenshot (29)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/7d4e325e-b757-4d13-9d9a-395ee7e70923)
 
-![Screenshot (28)](https://github.com/Praanesh7781/CODTECH-task-2/assets/137862856/c7755f1d-0518-41b2-93fe-e63f1df65a4d)
